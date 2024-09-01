@@ -1,0 +1,11 @@
+Triangles: 8.3k
+
+Materials: 1
+
+Texture Size: 4096x4096
+
+Texel Density: 
+
+Workflow: 
+
+Target Engine: Unreal Engine
