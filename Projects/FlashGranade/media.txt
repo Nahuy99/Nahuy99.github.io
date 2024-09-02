@@ -1,16 +1,10 @@
-Projects/FlashGranade/FlashGranade_1.png
-Test_1.
+https://www.dropbox.com/scl/fi/ll2cc6r0hzutnd9vjxa40/Untitled.png?rlkey=z7ct8ygkqoit1kw73it3mhsuy&st=siynskjq&dl=0
+image 1
 
-https://example2.jpg
-Description for example2.jpg.
+https://www.dropbox.com/scl/fi/v84re3no5kh8k0yn0hjmh/Untitled_002.mp4?rlkey=aq3dfva6ksukdnyv901s6hnxz&st=qa696c9i&dl=0
+image 2 
 
-https://example3.gif
-These aren't real images but need replacing with your own.
-
-https://examplevideo.mp4
-MP4's are also supported but like with images should be hosted somewhere like dropbox.
-
-https://beforepic.png // https://afterpic.png
-You can create before and after slider by seperating two urls with ' // ' 
+https://www.dropbox.com/scl/fi/v84re3no5kh8k0yn0hjmh/Untitled_002.mp4?rlkey=aq3dfva6ksukdnyv901s6hnxz&st=mho7ravg&dl=0
+video teste
 
 https://sketchfab.com/3d-models/stun-granade-cts-7290-f58eeed083d945d7a3a6452a7befb28b
