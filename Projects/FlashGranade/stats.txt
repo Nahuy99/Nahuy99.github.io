@@ -4,8 +4,8 @@ Materials: 1
 
 Texture Size: 4096x4096
 
-Texel Density: 
+Texel Density:
 
-Workflow: 
+Workflow: PBR
 
 Target Engine: Unreal Engine

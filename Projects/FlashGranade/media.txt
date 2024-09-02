@@ -13,4 +13,4 @@ MP4's are also supported but like with images should be hosted somewhere like dr
 https://beforepic.png // https://afterpic.png
 You can create before and after slider by seperating two urls with ' // ' 
 
-https://skfb.ly/pq9Tp
+https://sketchfab.com/3d-models/stun-granade-cts-7290-f58eeed083d945d7a3a6452a7befb28b
